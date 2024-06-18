@@ -14,7 +14,7 @@ Se utiliza el toolbox con herramientas de matemáticas símbolicas, para generar
 
 ## Código 1
 Sistemas diferenciales.
-Para ver el código, haz clic [aquí](Practica6.m).
+Para ver el código, haz clic [aquí](Practica6.html).
 
 ## Código 2
 Sistemas en diferencias
