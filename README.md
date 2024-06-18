@@ -21,9 +21,9 @@ Aquí va una breve introducción sobre el proyecto. Describe el propósito y el 
 ## Código 1
 Sistemas diferenciales.
 
-Para ver el código, haz clic [aquí](ruta/al/primer/codigo).
+Para ver el código, haz clic [aquí](Practica6.m).
 
 ## Código 2
 Sistemas en diferencias
 
-Para ver el código, haz clic [aquí](ruta/al/primer/codigo)
+Para ver el código, haz clic [aquí](Practicca6_2.m)
